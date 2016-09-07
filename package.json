@@ -1,0 +1,17 @@
+{
+  "name": "pl-graphql",
+  "version": "0.1.0",
+  "description": "Procedural Execution Engine for GraphQL",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "graphql",
+    "procedural",
+    "execution",
+    "language"
+  ],
+  "author": "Robin Ricard",
+  "license": "MIT"
+}
