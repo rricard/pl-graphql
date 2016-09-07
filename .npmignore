@@ -1,3 +1,4 @@
+.*
 *.swp
 *~
 *.iml
@@ -6,7 +7,9 @@
 .idea
 npm-debug.log
 
+.babelrc 
+CONTRIBUTING.md
 node_modules
 coverage
-dist
-.vscode
+resources
+src
