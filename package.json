@@ -18,7 +18,7 @@
     "language"
   ],
   "author": "Robin Ricard",
-  "license": "MIT",
+  "license": "BSD",
   "options": {
     "mocha": "--require ./resources/mocha-bootload --check-leaks --full-trace src/**/__tests__/**/*-test.js"
   },
